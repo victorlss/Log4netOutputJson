@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Log4netOutputJson", "Log4netOutputJson\Log4netOutputJson.csproj", "{29C655C5-267A-4A22-AD00-66E7CB2FE310}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Log4netOutputJson.Tests", "Log4netOutputJson.Tests\Log4netOutputJson.Tests.csproj", "{EC1B61FA-593E-4198-AAB2-A7524F0D8A45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29C655C5-267A-4A22-AD00-66E7CB2FE310}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29C655C5-267A-4A22-AD00-66E7CB2FE310}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29C655C5-267A-4A22-AD00-66E7CB2FE310}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29C655C5-267A-4A22-AD00-66E7CB2FE310}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC1B61FA-593E-4198-AAB2-A7524F0D8A45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC1B61FA-593E-4198-AAB2-A7524F0D8A45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC1B61FA-593E-4198-AAB2-A7524F0D8A45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC1B61FA-593E-4198-AAB2-A7524F0D8A45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
